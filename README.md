@@ -9,7 +9,7 @@ Glad to connect with any Data Analysts & Scientists<br>📞  + 91-9818871437 | W
 <ul align="center">**DATA IS A TOOL FOR ENHANCING INTUITION**</ul><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashraw123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraw123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-srivastava-22850a25a)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashraw123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraw123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-srivastava-22850a25a)[![Telegram](https://in.images.search.yahoo.com/search/images;_ylt=AwrKAgMLoN1lG1gHUSG7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=telegram+images&fr2=piv-web&type=E210IN1485G0&fr=mcafee#id=13&iurl=https%3A%2F%2Fwww.filemail.com%2Fcontent%2Fwp-content%2Fuploads%2Fsend-large-files-with-telegram-scaled.jpg&action=click)(https://www.telegram.com/Ashking198)
 
 
 # 💻 Toolsets:
