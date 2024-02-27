@@ -10,8 +10,11 @@ Glad to connect with any Data Analysts & Scientists<br>📞  + 91-9818871437 | W
 
 <br><br>#powerbi #datamining #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #AI 
 
-🌐 Socials:
-[Facebook](https://www.facebook.com/ashraw123) [Instagram](https://www.instagram.com/ashraw123) [LinkedIn](www.linkedin.com/in/ashish-srivastava-22850a25a)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashraw123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraw123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-srivastava-22850a25a)
 
-💻 Tech Stack:
-Python Anaconda MySQL MicrosoftSQLServer NumPy Pandas MSExcel PowerBI
+
+# 💻 Toolsets:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MSExcel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge) 
+
+
