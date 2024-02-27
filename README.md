@@ -11,7 +11,7 @@ Glad to connect with any Data Analysts & Scientists<br>📞  + 91-9818871437 | W
 <br><br>#powerbi #datamining #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #AI 
 
 🌐 Socials:
-[Facebook] Instagram [LinkedIn](www.linkedin.com/in/ashish-srivastava-22850a25a)
+[Facebook](https://www.facebook.com/ashraw123) [Instagram](https://www.instagram.com/ashraw123) [LinkedIn](www.linkedin.com/in/ashish-srivastava-22850a25a)
 
 💻 Tech Stack:
-Python Anaconda MySQL MicrosoftSQLServer Canva Matplotlib NumPy Pandas MSExcel PowerBI
+Python Anaconda MySQL MicrosoftSQLServer NumPy Pandas MSExcel PowerBI
