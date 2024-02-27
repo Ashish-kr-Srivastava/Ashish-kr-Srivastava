@@ -8,4 +8,4 @@ Glad to connect with any Data Analysts & Scientists<br>📞  + 91-9818871437 | W
 
 <ul align="center">**DATA IS A TOOL FOR ENHANCING INTUITION**</ul><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br><br>#powerbi #datamining #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #ai 
+<br><br>#powerbi #datamining #dataanalysis #msexcel #sql<br>#python #statistics #chatgpt #AI 
